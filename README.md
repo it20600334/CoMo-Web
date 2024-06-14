@@ -1,2 +1,2 @@
-# PlantSnap
-Research Portfolio - PlantSnap
+# Como
+Research Portfolio - COMO
